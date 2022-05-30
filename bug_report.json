@@ -1,1 +1,10 @@
-
+{
+  "IDBug": "A01",
+  "Summary": "MistakeInTheNameOfTheStore",
+  "Project": "WebSiteFlowers",
+  "Severity": "Minor",
+  "Priority": "Medium",
+  "Status": "New",
+  "ActualResult": "Flower",
+  "ExpectedResult": "Flowers"
+}
